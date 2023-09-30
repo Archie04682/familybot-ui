@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/familybot-ui/static/css/main.62e49b15.css",
-    "main.js": "/familybot-ui/static/js/main.cc545e93.js",
+    "main.js": "/familybot-ui/static/js/main.ca332fbb.js",
     "static/js/787.d70b7ad3.chunk.js": "/familybot-ui/static/js/787.d70b7ad3.chunk.js",
     "index.html": "/familybot-ui/index.html",
     "main.62e49b15.css.map": "/familybot-ui/static/css/main.62e49b15.css.map",
-    "main.cc545e93.js.map": "/familybot-ui/static/js/main.cc545e93.js.map",
+    "main.ca332fbb.js.map": "/familybot-ui/static/js/main.ca332fbb.js.map",
     "787.d70b7ad3.chunk.js.map": "/familybot-ui/static/js/787.d70b7ad3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.62e49b15.css",
-    "static/js/main.cc545e93.js"
+    "static/js/main.ca332fbb.js"
   ]
 }
